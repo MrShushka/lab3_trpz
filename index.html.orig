@@ -63,11 +63,14 @@
 
 
 
+<<<<<<< HEAD
+    <title> «Комп'ютерний практикум №3*. Git і GitHub» </title>
+=======
     <title> «Комп'ютерний практикум №3. Git і GitHub» </title>
+>>>>>>> my_less
 </head>
 <body>
 <header>
-    <h1>Робота з GitHub</h1>
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
             <a class="navbar-brand" href="index.html">
